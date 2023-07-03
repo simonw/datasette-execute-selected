@@ -19,6 +19,10 @@ Install this plugin in the same environment as Datasette.
 
 Once this plugin is working, you'll be able to select a fragment of SQL inside a larger editable query and, if that fragment can be executed, an "Execute selected SQL" button will be shown.
 
+It's going to look something like this:
+
+![Animated demo of the plugin showing and hiding an Execute seleced SQL button as the user highlights fragmens of the SQL that could be executed](https://user-images.githubusercontent.com/9599/250462843-861a5a3d-3456-4adc-a504-81634c7c5e62.gif)
+
 ## Development
 
 To set up this plugin locally, first checkout the code. Then create a new virtual environment:
